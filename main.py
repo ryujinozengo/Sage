@@ -125,7 +125,7 @@ class MainWindow(QMainWindow):
         widgets.output.setTextColor(QColor(120, 75, 48, 255))
         widgets.output.setFontPointSize(16)
         widgets.output.setFontWeight(700)
-        widgets.output.append("Sage :")
+        widgets.output.append("Sage")
         widgets.output.setFontWeight(500)
         widgets.output.append(text + "\n")
     
@@ -181,7 +181,7 @@ class MainWindow(QMainWindow):
             btn.setStyleSheet(UIFunctions.selectMenu(btn.styleSheet())) # SELECT MENU
 
         if btnName == "btn_save":
-            text = "haskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhdhaskhd\nasdjkaosjd\nsdkjsldfjlsf\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na"
+            text = "Hi"
             self.cout_c(text)
 
         # PRINT BTN NAME
