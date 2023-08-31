@@ -1,3 +1,8 @@
+# Sage-Virtual-Assistant
+
+Meet Sage, your AI-powered personal assistant. Stay organized with scheduling, reminders, and notifications. Get news, weather, and traffic updates. Enjoy personalized movie and song recommendations. Order food effortlessly. Experience a stress-free, productive day with Sage.
+
+
 # Images
 ![Sage (1)](https://github.com/ryujinozengo/Sage-Virtual-Assistant/assets/131596281/21d852e1-35fc-4ac8-afa8-bfd7f32733be)
 ![Sage (2)](https://github.com/ryujinozengo/Sage-Virtual-Assistant/assets/131596281/315dd98b-7027-44f6-87eb-ceb820c9dcf5)
