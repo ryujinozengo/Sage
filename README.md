@@ -1,3 +1,9 @@
+# Images
+![Sage (1)](https://github.com/ryujinozengo/Sage-Virtual-Assistant/assets/131596281/21d852e1-35fc-4ac8-afa8-bfd7f32733be)
+![Sage (2)](https://github.com/ryujinozengo/Sage-Virtual-Assistant/assets/131596281/315dd98b-7027-44f6-87eb-ceb820c9dcf5)
+
+
+
 # High DPI
 > Qt Widgets is an old technology and does not have a good support for high DPI settings, making these images look distorted when your system has DPI applied above 100%.
 You can minimize this problem using a workaround by applying this code below in "main.py" just below the import of the Qt modules.
